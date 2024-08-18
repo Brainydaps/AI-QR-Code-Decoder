@@ -28,4 +28,8 @@ Future work will focus on optimizing the model's accuracy and efficiency, as wel
 
 I'm also excited to announce that I’ll be releasing a YouTube video visualizing the architecture of this deep learning model in 3D, offering a deeper insight into its inner workings.
 
+The model can be found here;
+
+[Kaggle](https://www.kaggle.com/models/adedapoadeniran/ai-qr-code-decoder-deeplearning)
+
 Stay tuned for more updates!
